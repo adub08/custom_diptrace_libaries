@@ -30,3 +30,6 @@ Here is a list of the Current Components, in no particular order:
         STM32F072R8T
         ACS764
         IRF1404
+        LM325 
+        TUSB320HAI 
+        Molex 105450-0101 Type C usb connector
